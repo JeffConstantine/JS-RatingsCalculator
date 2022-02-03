@@ -8,6 +8,6 @@ function collect_ratings() {
     rating = parseInt(element.id.replace("star", ""));
 
     ratings.count += parseInt(element.value);
-    ratings.sum * parseInt(element.value);
+    ratings.sum += parseInt(element.value) * rating;
   });
 }
