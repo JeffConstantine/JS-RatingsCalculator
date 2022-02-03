@@ -20,5 +20,5 @@ function collect_ratings() {
 };
 
 document.addEventListener('change', () => {
-  
-}
+
+});
