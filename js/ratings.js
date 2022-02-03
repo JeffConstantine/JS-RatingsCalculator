@@ -19,4 +19,6 @@ function collect_ratings() {
     
 };
 
-element.addEventListener(change);
+document.addEventListener('change', () => {
+  
+}
