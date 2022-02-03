@@ -18,3 +18,5 @@ function collect_ratings() {
  return ratings;
     
 };
+
+element.addEventListener(change);
